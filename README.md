@@ -9,7 +9,7 @@ User Roles: Role-based access for admins and participants.
 Event Scheduling: Manage event details including name, date, venue, and activities.
 Participant Management: Register attendees, track attendance, and view participant lists.
 Venue Booking: Assign and manage event locations efficiently.
-Payment Tracking: (Optional) Monitor registration and payment status.
+Payment Tracking:  Monitor registration and payment status.
 Reporting & Analytics: Generate summaries and dashboards for quick insights.
 
 
@@ -24,7 +24,7 @@ Security: Role-based access and backend data handling ensure controlled access t
 
 
 🔧 Technologies Used
-Frontend: HTML, CSS, JavaScript (optional)
+Frontend: HTML, CSS, JavaScript 
 Backend: PHP
 Database: MySQL
 Server Environment: XAMPP/WAMP
